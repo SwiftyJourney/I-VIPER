@@ -2,6 +2,10 @@
 
 All the new changes through version will be noted on this file
 
+## 1.1.1
+
+* [FIX] Router for `UICollectionView` subclassing add a `flowLayout` property to initialize the `Controller` correctly
+
 ## 1.1.0
 
 * [UPDATE] Change `I-VIPER Templates` with `I-VIPER`.

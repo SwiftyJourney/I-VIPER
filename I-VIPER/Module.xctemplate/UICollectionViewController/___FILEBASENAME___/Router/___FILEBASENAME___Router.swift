@@ -17,7 +17,8 @@ class ___VARIABLE_productName:identifier___Router {
     let router = ___VARIABLE_productName:identifier___Router()
     let presenter = ___VARIABLE_productName:identifier___Presenter()
     let interactor = ___VARIABLE_productName:identifier___Interactor()
-    let view = ___VARIABLE_productName:identifier___ViewController()
+    let flowLayout = UICollectionViewFlowLayout()
+    let view = ___VARIABLE_productName:identifier___ViewController(collectionViewLayout: flowLayout)
 
     presenter.interactor = interactor
     presenter.router = router
