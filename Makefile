@@ -1,6 +1,6 @@
 XCODE_USER_TEMPLATES_DIR=~/Library/Developer/Xcode/Templates/File\ Templates
 
-TEMPLATES_DIR=I-VIPER\ Templates
+TEMPLATES_DIR=I-VIPER
 
 install_templates:
 	mkdir -p $(XCODE_USER_TEMPLATES_DIR)
