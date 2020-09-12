@@ -1,4 +1,4 @@
-XCODE_USER_TEMPLATES_DIR=~/Library/Developer/Xcode/Templates
+XCODE_USER_TEMPLATES_DIR=~/Library/Developer/Xcode/Templates/File\ Templates
 
 TEMPLATES_DIR=I-VIPER\ Templates
 
