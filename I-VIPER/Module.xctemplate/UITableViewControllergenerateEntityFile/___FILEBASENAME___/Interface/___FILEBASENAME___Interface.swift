@@ -8,16 +8,16 @@ import UIKit
 
 // MARK: - Presenter -> View
 
-protocol ___VARIABLE_productName:identifier___ViewInterface: class {}
+protocol ___VARIABLE_productName:identifier___ViewInterface: AnyObject {}
 
 // MARK: - View -> Presenter
 
-protocol ___VARIABLE_productName:identifier___PresenterInterface: class {}
+protocol ___VARIABLE_productName:identifier___PresenterInterface: AnyObject {}
 
 // MARK: - Presenter -> Router
 
-protocol ___VARIABLE_productName:identifier___RouterInterface: class {}
+protocol ___VARIABLE_productName:identifier___RouterInterface {}
 
 // MARK: - Presenter -> Interactor
 
-protocol ___VARIABLE_productName:identifier___InteractorInterface: class {}
+protocol ___VARIABLE_productName:identifier___InteractorInterface {}
