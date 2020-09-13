@@ -46,6 +46,16 @@
 		</dict>
 		<dict>
 			<key>Identifier</key>
+			<string>addNavigationController</string>
+			<key>Name</key>
+			<string>Using NavigationController</string>
+			<key>Description</key>
+			<string>Add a NavigationController on the Router</string>
+			<key>Type</key>
+			<string>checkbox</string>
+		</dict>
+		<dict>
+			<key>Identifier</key>
 			<string>generateEntityFile</string>
 			<key>Name</key>
 			<string>Also create an entity</string>
